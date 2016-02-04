@@ -1,0 +1,13 @@
+{
+  "name": "lab-elements",
+  "homepage": "https://github.com/polymerlabs/lab-elements",
+  "_release": "509c0f2dfb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "509c0f2dfba17b2db9b9796cdd579cb03b938bb2"
+  },
+  "_source": "git://github.com/polymerlabs/lab-elements.git",
+  "_target": "*",
+  "_originalSource": "polymerlabs/lab-elements"
+}
